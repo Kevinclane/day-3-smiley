@@ -1,0 +1,12 @@
+main{
+  text-align: center;
+}
+
+.grey{
+  background-color: grey;
+  border: solid black;
+}
+
+body{
+  background-color: lightblue;
+}
